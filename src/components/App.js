@@ -11,9 +11,7 @@ import {
 
 const App = () => {
   return (
-    <SafeAreaView
-      style={{flex: 1, backgroundColor: 'red', height: 700, width: 200}}>
-      <StatusBar />
+    <SafeAreaView style={{flex: 1, backgroundColor: 'red'}}>
       <Text>okk</Text>
     </SafeAreaView>
   );
